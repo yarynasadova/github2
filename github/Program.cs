@@ -10,6 +10,9 @@ namespace github
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("fsfsfs");
+            Console.WriteLine("fsfsfs");
+            Console.WriteLine("fsfsfs");
         }
     }
 }
